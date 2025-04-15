@@ -42,7 +42,7 @@ Retail companies deal with large volumes of sales data stored in the cloud. This
 ```
 
 ## 📊 Dataset
-
+**Source :** [Kaggle Dataset — Fashion Retail Sales](https://www.kaggle.com/datasets/atharvasoundankar/fashion-retail-sales)
 **Name:** `Fashion_Retail_Sales.csv`  
 **Stored at:** `s3://<your-s3-bucket-name>/raw/Fashion_Retail_Sales.csv`  
 
